@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.BIYHRjNc.js";const y=JSON.parse('{"title":"快速开始","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),t={name:"index.md"},e=n("",6),p=[e];function l(h,k,r,d,o,c){return a(),i("div",null,p)}const E=s(t,[["render",l]]);export{y as __pageData,E as default};
