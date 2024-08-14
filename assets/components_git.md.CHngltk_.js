@@ -1,4 +1,4 @@
-import{_ as n,c as t,o as e,a3 as i}from"./chunks/framework.BMeDXoj2.js";const p=JSON.parse('{"title":"Git指令整理","description":"","frontmatter":{"layout":"post","title":"Git指令整理","subtitle":"常用的 Git 指令","date":"2024-07-03T00:00:00.000Z","author":"BY","header-img":"img/post-bg-ios9-web.jpg","catalog":true,"tags":["Mac","终端","Git"]},"headers":[],"relativePath":"components/git.md","filePath":"components/git.md"}'),a={name:"components/git.md"},o=i(`<blockquote><p>随便整理的一些自用的 Git 指令</p></blockquote><h1 id="github-创建仓库提示代码" tabindex="-1">GitHub 创建仓库提示代码 <a class="header-anchor" href="#github-创建仓库提示代码" aria-label="Permalink to &quot;GitHub 创建仓库提示代码&quot;">​</a></h1><pre><code>echo &quot;# 项目名&quot; &gt;&gt; README.md
+import{_ as n,c as t,o as e,a3 as i}from"./chunks/framework.BMeDXoj2.js";const p=JSON.parse('{"title":"Git指令整理","description":"常用的 Git 指令","frontmatter":{"title":"Git指令整理","description":"常用的 Git 指令"},"headers":[],"relativePath":"components/git.md","filePath":"components/git.md"}'),a={name:"components/git.md"},o=i(`<blockquote><p>随便整理的一些自用的 Git 指令</p></blockquote><h1 id="github-创建仓库提示代码" tabindex="-1">GitHub 创建仓库提示代码 <a class="header-anchor" href="#github-创建仓库提示代码" aria-label="Permalink to &quot;GitHub 创建仓库提示代码&quot;">​</a></h1><pre><code>echo &quot;# 项目名&quot; &gt;&gt; README.md
 git init
 git add README.md
 git commit -m &quot;first commit&quot;
@@ -219,4 +219,4 @@ $ git stash
 $ git stash pop
 </code></pre><h4 id="其他" tabindex="-1">其他 <a class="header-anchor" href="#其他" aria-label="Permalink to &quot;其他&quot;">​</a></h4><pre><code># 生成一个可供发布的压缩包
 $ git archives
-</code></pre>`,28),r=[o];function c(m,g,h,d,s,l){return e(),t("div",null,r)}const b=n(a,[["render",c]]);export{p as __pageData,b as default};
+</code></pre>`,28),r=[o];function c(m,g,h,d,s,l){return e(),t("div",null,r)}const $=n(a,[["render",c]]);export{p as __pageData,$ as default};
