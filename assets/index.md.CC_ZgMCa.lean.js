@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.DMj_wZv2.js";const y=JSON.parse('{"title":"快速开始","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),t={name:"index.md"},e=n("",6),p=[e];function l(h,k,r,d,o,c){return a(),i("div",null,p)}const E=s(t,[["render",l]]);export{y as __pageData,E as default};
